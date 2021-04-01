@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Gerardo Brito", 
+        "razonSocial": "Gerardo C.A.", 
+        "direccion": "Venezuela, Barquisimeto",
+        "state": true
+    },
+    {
+        "id": 2,
+        "nombre": "Maria Perez", 
+        "razonSocial": "Shoes Maria C.A.", 
+        "direccion": "Venezuela, Caracas",
+        "state": true
+    },
+    {
+        "id": 3,
+        "nombre": "Oscar Castañeda", 
+        "razonSocial": "Testiles Oscar C.A.", 
+        "direccion": "Venezuela, Valencia",
+        "state": true
+    },
+    {
+        "id": 4,
+        "nombre": "Omaira Castillo", 
+        "razonSocial": "Market Castillo C.A.", 
+        "direccion": "Venezuela, Barquisimeto",
+        "state": false
+    },
+    {
+        "id": 5,
+        "nombre": "Jesus Perozo", 
+        "razonSocial": "Electronica Jesus C.A.", 
+        "direccion": "Venezuela, Barquisimeto",
+        "state": true
+    }                
+]

@@ -1,0 +1,22 @@
+.title-e{
+  background-color: rgb(223, 221, 221);
+  color: gray;
+}
+
+.menuCircle{
+  background-color: rgba(128, 128, 128, 0.308);
+  cursor: pointer;
+}
+
+.col-cliente:hover{
+  background-color: rgba(216, 215, 215, 0.719);
+}
+
+.btnsinestilos{
+  background-color: transparent;
+  border: none;
+}
+
+.btnview:hover{
+  background-color:  rgba(216, 215, 215, 0.719);
+}
